@@ -82,6 +82,7 @@ For detailed instructions on how to run the project, please refer to the `Docume
 - `RUN.bat` - Windows batch file to run the project
 - `TEST.png` - Sample test image
 - `TEST.py` - Python script for testing the model
+- `Final Output.png` - Image of the final output of the iris recognition system
 
 ## Screenshots/Media
 
